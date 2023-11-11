@@ -33,12 +33,12 @@ $GLOBALS['TL_DCA']['tl_jobposting'] = array(
     'list'        => array(
         'sorting'           => array(
             'mode'        => DataContainer::MODE_SORTABLE,
-            'fields'      => array('title'),
+            'fields'      => array('jobTitle'),
             'flag'        => DataContainer::SORT_INITIAL_LETTER_ASC,
             'panelLayout' => 'filter;sort,search,limit'
         ),
         'label'             => array(
-            'fields' => array('title'),
+            'fields' => array('jobTitle'),
             'format' => '%s',
         ),
         'global_operations' => array(

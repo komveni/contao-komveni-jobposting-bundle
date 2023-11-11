@@ -21,20 +21,20 @@ $GLOBALS['TL_LANG']['tl_jobposting']['second_legend'] = "Erweiterte Einstellunge
 /**
 * Global operations
 */
-$GLOBALS['TL_LANG']['tl_jobposting']['new'] = ["Neu", "Ein neues Element anlegen"];
+$GLOBALS['TL_LANG']['tl_jobposting']['new'] = ["Neu", "Ein neues Jobposting anlegen"];
 
 /**
  * Operations
  */
-$GLOBALS['TL_LANG']['tl_jobposting']['edit'] = "Datensatz mit ID: %s bearbeiten";
-$GLOBALS['TL_LANG']['tl_jobposting']['copy'] = "Datensatz mit ID: %s kopieren";
-$GLOBALS['TL_LANG']['tl_jobposting']['delete'] = "Datensatz mit ID: %s löschen";
-$GLOBALS['TL_LANG']['tl_jobposting']['show'] = "Datensatz mit ID: %s ansehen";
+$GLOBALS['TL_LANG']['tl_jobposting']['edit'] = "Jobposting mit ID: %s bearbeiten";
+$GLOBALS['TL_LANG']['tl_jobposting']['copy'] = "Jobposting mit ID: %s kopieren";
+$GLOBALS['TL_LANG']['tl_jobposting']['delete'] = "Jobposting mit ID: %s löschen";
+$GLOBALS['TL_LANG']['tl_jobposting']['show'] = "Jobposting mit ID: %s ansehen";
 
 /**
  * Fields
  */
-$GLOBALS['TL_LANG']['tl_jobposting']['title'] = ["Titel", "Geben Sie den Titel ein"];
+$GLOBALS['TL_LANG']['tl_jobposting']['jobTitle'] = ["Titel", "Geben Sie den Jobtitel ein"];
 $GLOBALS['TL_LANG']['tl_jobposting']['selectField'] = ["Select Feld", "Wählen Sie aus."];
 $GLOBALS['TL_LANG']['tl_jobposting']['checkboxField'] = ["Chosen Feld", "Wählen Sie aus."];
 $GLOBALS['TL_LANG']['tl_jobposting']['multitextField'] = ["Multitext Feld", "Geben Sie die Werte ein"];
