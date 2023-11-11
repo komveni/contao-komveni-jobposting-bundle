@@ -12,6 +12,10 @@ declare(strict_types=1);
  * @link https://github.com/komveni/contao-komveni-jobposting-bundle
  */
 
+/* infos zu tabellen
+ * https://docs.contao.org/dev/reference/dca/fields/
+ */
+
 use Contao\Backend;
 use Contao\DataContainer;
 use Contao\DC_Table;
