@@ -1,0 +1,4 @@
+# config/routes.yaml
+komveni_contao_komveni_jobposting.controller:
+    resource: ../src/Controller
+    type: annotation
